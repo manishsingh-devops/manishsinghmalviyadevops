@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="800" src="https://simplecoding.dev/assets/devops.gif">
+<img align="right" alt="Coding" width="400" src="https://simplecoding.dev/assets/devops.gif">
 
 <h1 align="center">My Self Manish Kumar </h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
