@@ -27,12 +27,7 @@
 - ⚡ Fun fact: ...
 
 
-{
-  "image": "https://user-images.githubusercontent.com/67903164/112979129-cd824580-9175-11eb-8fc7-09169b54d5e9.png",
-  "issueId": 421,
-  "name": "Khushi Sharma",
-  "username": "KhushiSharma22"
-}
+
 manishsinghmalviyadevops/manishsinghmalviyadevops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
