@@ -1,3 +1,9 @@
+{
+  "image": "https://user-images.githubusercontent.com/84928799/151677937-a8c01c37-a4dd-4514-b05a-c4cfda931675.png",
+  "issueId": 994,
+  "name": "Chirag Chakraborty",
+  "username": "GeekLord04"
+}
 <img align="right" alt="Coding" width="400" src="https://simplecoding.dev/assets/devops.gif">
 
 <h1 align="center">My Self Manish Kumar </h1>
